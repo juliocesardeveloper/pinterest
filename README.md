@@ -1,9 +1,9 @@
-# pinterest
-Ejercicio 2 del curso CSS grid layout de Platzi: 
-Basic grid de Pinterest.
+# Pinterest grid layout
+This is the 2nd exercise from CSS grid layout course of Platzi: 
+Grid style from the Pinterest main page.
 
-## El ejercicio lo puedes ver terminado en:
+## You can see this exercise here:
 [Pinterest grid style](https://juliocesardeveloper.github.io/pinterest/)
 
 
-Espero ir evolucionando éste ejercicio a medida que vaya adquiriendo más skills en frontend.
+I hope to evolve this exercise as I acquire more skills in frontend.
